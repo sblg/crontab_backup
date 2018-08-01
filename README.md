@@ -7,4 +7,4 @@ crontab -e #edit crontab
 #export your favourite editor, or you are directed to your default editor otherwise
 export EDITOR=/usr/bin/nano
 
-#code to write in editor 
+#code: code_nano
